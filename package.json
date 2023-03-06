@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.7.0"
+    "cypress": "^12.7.0",
+    "geckodriver": "^2.0.0",
+    "nightwatch": "^1.6.4"
+  },
+  "dependencies": {
+    "chromedriver": "^100.0.0"
   }
 }
